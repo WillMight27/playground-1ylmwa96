@@ -23,3 +23,18 @@ La programmation générique quant à elle, assez complexe au début, permet de 
 Cette définition ne veut ainsi pas forcément dire grand chose pour vous. C'est pour cette raison que je vous annonce que nous allons pouvoir commencer notre apprentissage du C++ avec la programmation procédural dès maintenant !
 Il ne nous reste plus qu'une chose à faire, installer un compilateur car, oui, le C++ est un langage
 compilé. 
+Dans ce tutoriel le compilateur est "en ligne" la compilation ce fait sur un serveur distant.
+Mais pour vos projet vous utiliserez un IDE.
+
+#Un IDE ?
+Ce terme signifie Integrated Development Environment. C'est un peu comme un éditeur de texte avancé qui vous aidera lorsque vous programmerez. Par exemple il complétera tout seul vos instructions ou corrigera vos erreurs.
+Pour le moment vous connaissez l'IDE d'arduino très basique. 
+Il en existe de bien meilleur tels que :
+
+- Visual studio code
+- Notepad++
+- Visual studio 2017
+- Eclipse
+- QT
+-....
+
