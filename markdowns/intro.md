@@ -38,3 +38,4 @@ Il en existe de bien meilleur tels que :
 - QT
 -....
 
+Mais regardons pour l'instant vos première ligne de C++
