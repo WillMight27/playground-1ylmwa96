@@ -3,10 +3,3 @@ plan:
 - title: Qu'est-ce que le C++
 - title: Vos premières lignes de c++
   statement: markdowns/welcome.md
-projects:
-  cpp:
-    root: /cpp-project
-    runner:
-      name: techio/cmake-gcc-runner
-      version: latest
-
