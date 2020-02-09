@@ -1,6 +1,7 @@
-title: C++ Project
+title: Apprendre le C++
 plan:
-- title: Welcome
+- title: Qu'est-ce que le C++
+- title: Vos premières lignes de c++
   statement: markdowns/welcome.md
 projects:
   cpp:
@@ -8,3 +9,4 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
+- title: Les variables
