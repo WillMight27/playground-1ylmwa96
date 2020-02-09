@@ -26,7 +26,7 @@ compilé.
 Dans ce tutoriel le compilateur est "en ligne" la compilation ce fait sur un serveur distant.
 Mais pour vos projet vous utiliserez un IDE.
 
-#Un IDE ?
+# Un IDE ?
 Ce terme signifie Integrated Development Environment. C'est un peu comme un éditeur de texte avancé qui vous aidera lorsque vous programmerez. Par exemple il complétera tout seul vos instructions ou corrigera vos erreurs.
 Pour le moment vous connaissez l'IDE d'arduino très basique. 
 Il en existe de bien meilleur tels que :
