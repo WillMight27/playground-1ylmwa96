@@ -6,3 +6,5 @@ plan:
   statement: markdowns/QCMintro.md
 - title: Vos premières lignes de c++
   statement: markdowns/welcome.md
+- title: Les variables
+  statement: markdowns/variables.md
