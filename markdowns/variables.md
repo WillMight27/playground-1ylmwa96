@@ -28,18 +28,29 @@ int main()
 }
 ```
 Voyez le résultat ! 9
+
 Pour tous les types que nous allons voir ici, vous pouvez les passer à cout via l'opérateur de flux << afin d'afficher la variable dans la console.
 
 Comme vous le voyez, créer une variable est assez simple, voici la syntaxe :
 TYPE NOM;
 
 Voyez plutôt ce code :
-    int x; // 1)
-    x = 0; // 2)
+
+```C++ runnable
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
+    int x;  //1
+    x = 0;  //2
     cout << x << endl;
     x = x + 5; // 3)
     cout << x << endl;
-
+    return 0;
+}
+``
 Première nouveauté ici, vous pouvez commenter votre code avec //. Placez un // n'importe où dans votre code et vous pourrez insérer sur tout le reste de la ligne du texte ou tout ce que vous voulez, ce ne sera pas pris en compte dans le logiciel.
 
 Les commentaires utilisant // ne peuvent tenir que sur une ligne. Comment faire pour les commentaires multilignes ? C'est simple ! 
