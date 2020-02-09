@@ -21,7 +21,9 @@ using namespace std;
 
 int main() 
 {
-    cout << "Hello, World!";
+    int qi;
+    qi = 9;
+    cout << qi << endl;
     return 0;
 }
 ```
