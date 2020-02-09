@@ -4,7 +4,7 @@
 -[x] des applications mobiles
 -[ ] un café
 
-?[Dans quelle decenie le c++ a-t-il été inventé ?]
+?[Dans quelle décennie le c++ a-t-il été inventé ?]
 -[X] 1980
 -[ ] 1990
 -[ ] 2000
