@@ -50,7 +50,8 @@ int main()
     cout << x << endl;
     return 0;
 }
-``
+```
+
 Première nouveauté ici, vous pouvez commenter votre code avec //. Placez un // n'importe où dans votre code et vous pourrez insérer sur tout le reste de la ligne du texte ou tout ce que vous voulez, ce ne sera pas pris en compte dans le logiciel.
 
 Les commentaires utilisant // ne peuvent tenir que sur une ligne. Comment faire pour les commentaires multilignes ? C'est simple ! 
