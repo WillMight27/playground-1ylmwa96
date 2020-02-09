@@ -1,4 +1,6 @@
 title: Apprendre le C++
 plan:
+- title: Qu'est-ce que le C++
+  statement: markdowns/intro.md
 - title: Vos premières lignes de c++
   statement: markdowns/welcome.md
