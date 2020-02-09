@@ -59,20 +59,34 @@ Les commentaires utilisant // ne peuvent tenir que sur une ligne. Comment faire 
 Utilisez /* */ ! La règle est simple : placez votre
 commentaire entre le /* et le */. Le commentaire peut faire plusieurs lignes et être aussi grand que vous le voulez !
 
-int i = 5;
-/* Coucou
-Je suis un commentaire
-lala
-*/
-i = 8;
-/* Rebonjour
-* Je suis un commentaire
-* avec plus de classe !
-* :-D !
-*/
+```C++ runnable
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
+   int i = 5;
+    /* Coucou
+    Je suis un commentaire
+    lala
+    */
+    i = 8;
+    /* Rebonjour
+    * Je suis un commentaire
+    * avec plus de classe !
+    * :-D !
+    */
+    cout << i << endl;
+    return 0;
+}
+```
+
 J'ai ici classé le code en 3 étapes.
 1) On déclare la variable. On dit que elle doit être réservée dans la mémoire, désormais elle nous appartient.
+
 2) On initialise la variable. En effet la variable était créée mais était inutilisable car elle n'avait aucune valeur. Ici on lui donne une valeur, c'est à dire zéro.
+
 3) On assigne une nouvelle valeur à la variable. Cette valeur vaut x + 5 c'est à dire 0 + 5 donc désormais x vaut 5.
 
 Normalement si tout se passe bien votre console affichera 0 puis 5 sur des lignes différentes.
