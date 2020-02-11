@@ -3,6 +3,8 @@ Nous allons commencer par les notions les plus simples et les plus basiques. Pet
 Le nombre de notions que vous allez acquérir est vraiment énorme. Mais n'abandonnez pas trop vite !
 Si vous trouvez que ce que je vous montre est trop compliqué, ne vous inquiétez pas. Relisez le chapitre une fois ou passez à la suite et vous le comprendrez naturellement par la suite.
 
+# Qu'est-ce que l'on peut faire avec le C++ ?
+
 Eh bien... Beaucoup de choses ! Théoriquement, avec le C++ on peut créer un OS, on peut faire des jeux vidéos, des applications desktop et mobiles. Si vous le souhaitez vous pouvez même faire des sites web ou une IA qui vous sert le café !
 Saviez-vous que la plupart des gros jeux vidéos AAA sont codés en C++ ?
 Donc oui le C++ est un langage puissant qui offre pleins de possibilités à condition de le maîtriser.
