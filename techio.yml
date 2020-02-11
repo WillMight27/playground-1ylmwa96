@@ -1,6 +1,6 @@
 title: Apprendre le C++
 plan:
-- title: Qu'est-ce que le C++
+- title: Apprendre le c++
   statement: markdowns/intro.md
 - title: Avez-vous bien compris ?
   statement: markdowns/QCMintro.md
